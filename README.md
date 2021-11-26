@@ -8,11 +8,11 @@
  # Please click this below link for visit the website
 **Netlify link** [https://sunglass-shop-19fa7.web.app/]
  <!-- Benfits of this website -->
- * Our new Brand is available in website
- * So much brand is inculded in this website
+ * Our new Brand sunglasses is available in website
+ * User should be logged in then an authenticated user can buy the products.
+ * User also give their review.
  * You can buy any product from this website
- * You buy product with discount
- * Amazing products are included in this website
+ * Admin also show all placed orders and manage all products.
 
 
 
